@@ -1,0 +1,302 @@
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Book-BF64c1db8923fcf.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-BookItalic-BF64c1db8aa7c3d.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Thin-BF64c1db88e08dc.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-ThinItalic-BF64c1db8b00bf9.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Ultralight-BF64c1db8907e05.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: italic;
+    font-weight: 200;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-UltralightItalic-BF64c1db8b27451.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Light-BF64c1db88dc70d.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-LightItalic-BF64c1db8b1a198.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Basic-BF64c1db8a1e7f6.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-BasicItalic-BF64c1db8a41a03.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Medium-BF64c1db89f0be1.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-MediumItalic-BF64c1db8acb73f.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Semibold-BF64c1db8a032cb.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-SemiboldItalic-BF64c1db8a22437.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Bold-BF64c1db88e5897.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-BoldItalic-BF64c1db89e298c.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-ExtraBoldItalic-BF64c1db8a687d1.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Extrabold-BF64c1db89301fd.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-Black-BF64c1db88e0379.woff') format('woff');
+} */
+/* @font-face {
+    font-family: 'Flama Trial';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Flama Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaTrial-BlackItalic-BF64c1db8a01015.woff') format('woff');
+} */
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Basic-BF64c1db894d9f9.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Book-BF64c1db890047a.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Book-BF64c1db883a9b1.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Thin-BF64c1db8971769.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Thin-BF64c1db892653d.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Thin-BF64c1db87e8aad.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Light-BF64c1db8940ace.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Ultralight-BF64c1db89c00c8.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Ultralight-BF64c1db89216ed.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Ultralight-BF64c1db8875010.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Book-BF64c1db8967d36.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Light-BF64c1db8951b9d.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Light-BF64c1db87dfaa2.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Medium-BF64c1db8907289.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Basic-BF64c1db892cccf.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Medium-BF64c1db895e8c0.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Basic-BF64c1db878faeb.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Medium-BF64c1db8824b3e.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-SemiBold-BF64c1db894161f.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Semibold-BF64c1db893a254.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Semibold-BF64c1db881dc94.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Bold-BF64c1db89246ae.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Bold-BF64c1db88f3b5a.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Bold-BF64c1db87c876b.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Extrabold-BF64c1db8a07f9c.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Extrabold-BF64c1db8941622.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Extrabold-BF64c1db87499f5.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama Condensed Trial';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Flama Condensed Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaCondensedTrial-Black-BF64c1db89228c1.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama SemiCond Trial';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Flama SemiCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaSemiCondTrial-Black-BF64c1db8924620.woff') format('woff');
+}
+@font-face {
+    font-family: 'Flama UltraCond Trial';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Flama UltraCond Trial'), url('https://fonts.cdnfonts.com/s/101540/FlamaUltraCondTrial-Black-BF64c1db86c40c1.woff') format('woff');
+}
+
+

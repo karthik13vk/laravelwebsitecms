@@ -1,0 +1,260 @@
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-MediumItalic.eot');
+    src: local('Flama-MediumItalic'),
+        url('../flama/Flama-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-MediumItalic.woff2') format('woff2'),
+        url('../flama/Flama-MediumItalic.woff') format('woff'),
+        url('../flama/Flama-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-Thin.eot');
+    src: local('Flama-Thin'),
+        url('../flama/Flama-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Thin.woff2') format('woff2'),
+        url('../flama/Flama-Thin.woff') format('woff'),
+        url('../flama/Flama-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-ThinItalic.eot');
+    src: local('Flama-ThinItalic'),
+        url('../flama/Flama-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-ThinItalic.woff2') format('woff2'),
+        url('../flama/Flama-ThinItalic.woff') format('woff'),
+        url('../flama/Flama-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama Book';
+    src: url('../flama/Flama-Book.eot');
+    src: local('Flama-Book'),
+        url('../flama/Flama-Book.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Book.woff2') format('woff2'),
+        url('../flama/Flama-Book.woff') format('woff'),
+        url('../flama/Flama-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-BoldItalic.eot');
+    src: local('Flama-BoldItalic'),
+        url('../flama/Flama-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-BoldItalic.woff2') format('woff2'),
+        url('../flama/Flama-BoldItalic.woff') format('woff'),
+        url('../flama/Flama-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-ExtraboldItalic.eot');
+    src: local('Flama-ExtraboldItalic'),
+        url('../flama/Flama-ExtraboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-ExtraboldItalic.woff2') format('woff2'),
+        url('../flama/Flama-ExtraboldItalic.woff') format('woff'),
+        url('../flama/Flama-ExtraboldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-SemiboldItalic.eot');
+    src: local('Flama-SemiboldItalic'),
+        url('../flama/Flama-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-SemiboldItalic.woff2') format('woff2'),
+        url('../flama/Flama-SemiboldItalic.woff') format('woff'),
+        url('../flama/Flama-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-BlackItalic.eot');
+    src: local('Flama-BlackItalic'),
+        url('../flama/Flama-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-BlackItalic.woff2') format('woff2'),
+        url('../flama/Flama-BlackItalic.woff') format('woff'),
+        url('../flama/Flama-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-Semibold.eot');
+    src: local('Flama-Semibold'),
+        url('../flama/Flama-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Semibold.woff2') format('woff2'),
+        url('../flama/Flama-Semibold.woff') format('woff'),
+        url('../flama/Flama-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-LightItalic.eot');
+    src: local('Flama-LightItalic'),
+        url('../flama/Flama-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-LightItalic.woff2') format('woff2'),
+        url('../flama/Flama-LightItalic.woff') format('woff'),
+        url('../flama/Flama-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama Book';
+    src: url('../flama/Flama-BookItalic.eot');
+    src: local('Flama-BookItalic'),
+        url('../flama/Flama-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-BookItalic.woff2') format('woff2'),
+        url('../flama/Flama-BookItalic.woff') format('woff'),
+        url('../flama/Flama-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-Ultralight.eot');
+    src: local('Flama-Ultralight'),
+        url('../flama/Flama-Ultralight.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Ultralight.woff2') format('woff2'),
+        url('../flama/Flama-Ultralight.woff') format('woff'),
+        url('../flama/Flama-Ultralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-UltralightItalic.eot');
+    src: local('Flama-UltralightItalic'),
+        url('../flama/Flama-UltralightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-UltralightItalic.woff2') format('woff2'),
+        url('../flama/Flama-UltralightItalic.woff') format('woff'),
+        url('../flama/Flama-UltralightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama Basic';
+    src: url('../flama/Flama-Basic.eot');
+    src: local('Flama-Basic'),
+        url('../flama/Flama-Basic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Basic.woff2') format('woff2'),
+        url('../flama/Flama-Basic.woff') format('woff'),
+        url('../flama/Flama-Basic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-Light.eot');
+    src: local('Flama-Light'),
+        url('../flama/Flama-Light.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Light.woff2') format('woff2'),
+        url('../flama/Flama-Light.woff') format('woff'),
+        url('../flama/Flama-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-Bold.eot');
+    src: local('Flama-Bold'),
+        url('../flama/Flama-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Bold.woff2') format('woff2'),
+        url('../flama/Flama-Bold.woff') format('woff'),
+        url('../flama/Flama-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-Black.eot');
+    src: local('Flama-Black'),
+        url('../flama/Flama-Black.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Black.woff2') format('woff2'),
+        url('../flama/Flama-Black.woff') format('woff'),
+        url('../flama/Flama-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-Medium.eot');
+    src: local('Flama-Medium'),
+        url('../flama/Flama-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Medium.woff2') format('woff2'),
+        url('../flama/Flama-Medium.woff') format('woff'),
+        url('../flama/Flama-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama Basic';
+    src: url('../flama/Flama-BasicItalic.eot');
+    src: local('Flama-BasicItalic'),
+        url('../flama/Flama-BasicItalic.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-BasicItalic.woff2') format('woff2'),
+        url('../flama/Flama-BasicItalic.woff') format('woff'),
+        url('../flama/Flama-BasicItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flama';
+    src: url('../flama/Flama-Extrabold.eot');
+    src: local('Flama-Extrabold'),
+        url('../flama/Flama-Extrabold.eot?#iefix') format('embedded-opentype'),
+        url('../flama/Flama-Extrabold.woff2') format('woff2'),
+        url('../flama/Flama-Extrabold.woff') format('woff'),
+        url('../flama/Flama-Extrabold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

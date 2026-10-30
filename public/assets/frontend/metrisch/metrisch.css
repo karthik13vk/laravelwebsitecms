@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-MediumItalic.eot');
+    src: local('Metrisch Medium Italic'), local('Metrisch-MediumItalic'),
+        url('../metrisch/Metrisch-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-MediumItalic.woff2') format('woff2'),
+        url('../metrisch/Metrisch-MediumItalic.woff') format('woff'),
+        url('../metrisch/Metrisch-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-ExtraBold.eot');
+    src: local('Metrisch ExtraBold'), local('Metrisch-ExtraBold'),
+        url('../metrisch/Metrisch-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-ExtraBold.woff2') format('woff2'),
+        url('../metrisch/Metrisch-ExtraBold.woff') format('woff'),
+        url('../metrisch/Metrisch-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-BookItalic.eot');
+    src: local('Metrisch Book Italic'), local('Metrisch-BookItalic'),
+        url('../metrisch/Metrisch-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-BookItalic.woff2') format('woff2'),
+        url('../metrisch/Metrisch-BookItalic.woff') format('woff'),
+        url('../metrisch/Metrisch-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-BoldItalic.eot');
+    src: local('Metrisch Bold Italic'), local('Metrisch-BoldItalic'),
+        url('../metrisch/Metrisch-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-BoldItalic.woff2') format('woff2'),
+        url('../metrisch/Metrisch-BoldItalic.woff') format('woff'),
+        url('../metrisch/Metrisch-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-Bold.eot');
+    src: local('Metrisch Bold'), local('Metrisch-Bold'),
+        url('../metrisch/Metrisch-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-Bold.woff2') format('woff2'),
+        url('../metrisch/Metrisch-Bold.woff') format('woff'),
+        url('../metrisch/Metrisch-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-ExtraLightItalic.eot');
+    src: local('Metrisch ExtraLight Italic'), local('Metrisch-ExtraLightItalic'),
+        url('../metrisch/Metrisch-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-ExtraLightItalic.woff2') format('woff2'),
+        url('../metrisch/Metrisch-ExtraLightItalic.woff') format('woff'),
+        url('../metrisch/Metrisch-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-ExtraBoldItalic.eot');
+    src: local('Metrisch ExtraBold Italic'), local('Metrisch-ExtraBoldItalic'),
+        url('../metrisch/Metrisch-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-ExtraBoldItalic.woff2') format('woff2'),
+        url('../metrisch/Metrisch-ExtraBoldItalic.woff') format('woff'),
+        url('../metrisch/Metrisch-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-ExtraLight.eot');
+    src: local('Metrisch ExtraLight'), local('Metrisch-ExtraLight'),
+        url('../metrisch/Metrisch-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-ExtraLight.woff2') format('woff2'),
+        url('../metrisch/Metrisch-ExtraLight.woff') format('woff'),
+        url('../metrisch/Metrisch-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-LightItalic.eot');
+    src: local('Metrisch Light Italic'), local('Metrisch-LightItalic'),
+        url('../metrisch/Metrisch-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-LightItalic.woff2') format('woff2'),
+        url('../metrisch/Metrisch-LightItalic.woff') format('woff'),
+        url('../metrisch/Metrisch-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-Light.eot');
+    src: local('Metrisch Light'), local('Metrisch-Light'),
+        url('../metrisch/Metrisch-Light.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-Light.woff2') format('woff2'),
+        url('../metrisch/Metrisch-Light.woff') format('woff'),
+        url('../metrisch/Metrisch-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-Medium.eot');
+    src: local('Metrisch Medium'), local('Metrisch-Medium'),
+        url('../metrisch/Metrisch-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-Medium.woff2') format('woff2'),
+        url('../metrisch/Metrisch-Medium.woff') format('woff'),
+        url('../metrisch/Metrisch-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('../metrisch/Metrisch-Book.eot');
+    src: local('Metrisch Book'), local('Metrisch-Book'),
+        url('../metrisch/Metrisch-Book.eot?#iefix') format('embedded-opentype'),
+        url('../metrisch/Metrisch-Book.woff2') format('woff2'),
+        url('../metrisch/Metrisch-Book.woff') format('woff'),
+        url('../metrisch/Metrisch-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
